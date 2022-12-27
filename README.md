@@ -19,6 +19,8 @@ The dataset has 5 attributes. Their range is given in brackets.
 Saim Ali ( saimali00@live.com )
 
 ## Contributing members:
+Saim Ali
+
 James Aquino
 
 Justin George
