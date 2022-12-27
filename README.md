@@ -1,5 +1,5 @@
 # POIMAGIC-an-Early-Warning-Systems
-The goal of the project is to create an Early Warning System called POIMAGIC for streaming spatial events based on Earthquake hotspots. The total data in each dataset will be subdivided into 12 batches which contain the locations of events for a time interval of 2 months; e.g. one batch might contain the locations of earthquakes which happened in September till October of 2020 and our system will use a sliding window approach to create input data for the POIMAGIC system. 
+The goal of the project is to create an Early Warning System called POIMAGIC for streaming spatial events based on Earthquake hotspots. The total data in each dataset will be subdivided into 12 batches which contain the locations of events for a time interval of 2 months; e.g. one batch might contain the locations of earthquakes which happened in September till October of 2020 and our system will use a sliding window approach to create input data for the POIMAGIC system. To create this system we will use Python with various libraries top conduct our study of this topic.
 
 ### Our system will create TWO kinds of hotspots:
 a.	Small, very hot spots whose density is above a “high” density threshold d1
@@ -19,3 +19,8 @@ The dataset has 5 attributes. Their range is given in brackets.
 Saim Ali ( saimali00@live.com )
 
 ## Contributing members:
+James Aquino
+
+Justin George
+
+Johan John
